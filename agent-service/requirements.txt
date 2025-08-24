@@ -1,0 +1,16 @@
+langchain
+langgraph
+langgraph-supervisor
+langgraph-prebuilt
+python-dotenv
+typing-extensions
+fastapi
+uvicorn
+ollama
+langchain-ollama
+langchain-openai
+requests 
+beautifulsoup4 
+wikipedia
+playwright
+langchain-mcp-adapters
